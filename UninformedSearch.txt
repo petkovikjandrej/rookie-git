@@ -1,0 +1,7 @@
+fringe S A B B C D D G D G G G G
+poseta S A B B C D G
+
+
+DFS
+fringe S A B B C D D G G
+expand/visit S A B D G
